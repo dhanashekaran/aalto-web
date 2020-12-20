@@ -84,7 +84,7 @@ body{
 
 .header h1{
     font-family: var(--main-heading-font);
-    font-size: clamp(45px, 9vw, 100px);
+    font-size: clamp(45px, 13vw, 100px);
     text-align: center;
     color: rgba(0, 0, 0, 0.397);
     margin-top: 30px;
